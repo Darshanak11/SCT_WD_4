@@ -23,24 +23,6 @@ A clean, minimal, and fully functional task manager built with **pure HTML, CSS 
 - 💾 **localStorage Persistence** — your data survives page refreshes and browser restarts
 - 📱 **Fully Responsive** — works seamlessly on mobile, tablet, and desktop
 - 🎞️ **Smooth Animations** — slide-in transitions on every interaction
-
----
-
-## 🚀 Getting Started
-
-No installation required. Just open the file in any modern browser.
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/taskflow.git
-
-# Open in browser
-cd taskflow
-open taskflow.html
-```
-
-Or simply **download** `taskflow.html` and double-click it. Done.
-
 ---
 
 ## 🎮 How to Use
@@ -77,23 +59,6 @@ Or simply **download** `taskflow.html` and double-click it. Done.
 
 ---
 
-## 📁 Project Structure
-
-```
-taskflow/
-└── taskflow.html     # Everything — HTML + CSS + JS in one file
-```
-
----
-
-## 💾 Data Persistence
-
-TaskFlow uses the browser's built-in **localStorage** to save all your lists and tasks automatically. No backend, no account, no setup — your data is stored locally on your device and persists across sessions.
-
-> ⚠️ Clearing browser data or localStorage will erase your tasks.
-
----
-
 ## 🌐 Browser Support
 
 | Browser | Supported |
@@ -102,36 +67,6 @@ TaskFlow uses the browser's built-in **localStorage** to save all your lists and
 | Firefox 88+ | ✅ |
 | Safari 14+ | ✅ |
 | Edge 90+ | ✅ |
-
----
-
-## 🗺️ Roadmap
-
-- [ ] Drag-and-drop task reordering
-- [ ] Due date reminders / notifications
-- [ ] Dark mode toggle
-- [ ] Export tasks to CSV or JSON
-- [ ] Search and filter by keyword
-- [ ] Subtasks / checklists inside a task
-- [ ] Color labels per list
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — free to use, modify, and distribute.
-
----
-
-## 🙌 Contributing
-
-Contributions are welcome! If you have ideas for new features or spot a bug, feel free to open an issue or submit a pull request.
-
-1. Fork the repo
-2. Create your feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add your feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
 
 ---
 
